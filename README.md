@@ -9,8 +9,21 @@
 ## CSS
 
 [CSS Grid Cheatsheet](http://grid.malven.co/)  
-[CSS grid-flexbox and more] (https://css-tricks.com/)
+[CSS grid-flexbox and more](https://css-tricks.com/)  
+
 
 ## Sound
 
 [Free Sound Clips](http://soundbible.com/)  
+
+
+## Images
+
+[Freely-usable images](https://unsplash.com/)  
+[Free PSD temlates](https://free-psd-templates.com/)  
+
+
+## Fonts
+
+[Free for commercial use](https://www.fontsquirrel.com/)  
+[Well designed fonts](https://www.dafont.com/)  
