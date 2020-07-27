@@ -21,9 +21,15 @@
 
 [Freely-usable images](https://unsplash.com/)  
 [Free PSD temlates](https://free-psd-templates.com/)  
+[Free PSD files](https://www.freepik.com/popular-psd)  
+
 
 
 ## Fonts
 
 [Free for commercial use](https://www.fontsquirrel.com/)  
 [Well designed fonts](https://www.dafont.com/)  
+
+## Mockup
+
+[Smart mockups](https://smartmockups.com/)  
