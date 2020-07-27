@@ -22,6 +22,7 @@
 [Freely-usable images](https://unsplash.com/)  
 [Free PSD temlates](https://free-psd-templates.com/)  
 [Free PSD files](https://www.freepik.com/popular-psd)  
+[Picture placeholder](https://picsum.photos/)  
 
 
 
@@ -33,3 +34,21 @@
 ## Mockup
 
 [Smart mockups](https://smartmockups.com/)  
+
+## Color
+
+[Color palette generator](https://colors.muz.li/)  
+[Color space color generator](https://mycolor.space/)  
+
+
+
+
+
+
+
+
+
+
+
+
+
