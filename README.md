@@ -25,6 +25,8 @@
 [Picture placeholder](https://picsum.photos/)  
 [Free High Quality Images](https://www.pexels.com/) 
 [Free SVG icons](https://game-icons.net/)  
+[SVG icons](https://www.flaticon.com/)  
+
  
 
 
@@ -46,6 +48,9 @@
 [Color space color generator](https://mycolor.space/)  
 [Ready to use color palette](https://colorhunt.co/)  
 [Adobe color palette generator](https://color.adobe.com/tr/create/color-wheel)  
+[Color gradient generator](https://cssgradient.io/)  
+[Color palette generator](https://coolors.co/)  
+
 
 
 
