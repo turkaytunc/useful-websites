@@ -50,7 +50,7 @@
 [Adobe color palette generator](https://color.adobe.com/tr/create/color-wheel)  
 [Color gradient generator](https://cssgradient.io/)  
 [Color palette generator](https://coolors.co/)  
-
+[Color palette from different eras in history](https://colorleap.app/home)  
 
 
 
@@ -68,6 +68,9 @@
 [W3 Schools web](https://www.w3schools.com/)  
 
 
+## Online Tools
+
+[Pixelart drawing tool](https://www.pixilart.com/draw)  
 
 
 
