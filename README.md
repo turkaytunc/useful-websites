@@ -62,6 +62,8 @@
 ## Online Code Editor
 
 [Codepen](https://codepen.io/)  
+[Blitz](https://stackblitz.com/)  
+
 
 ## Documentations
 
@@ -71,6 +73,15 @@
 ## Online Tools
 
 [Pixelart drawing tool](https://www.pixilart.com/draw)  
+
+
+## Challenges
+
+[Command Line challenges](https://cmdchallenge.com/)  
+[Series of mathematical challenges](https://projecteuler.net/archives)  
+[Coding Challenges Codewars](https://www.codewars.com/)  
+[Coding Challenges Leet Code](https://leetcode.com/)  
+[Coding challenges hackerrank](https://www.hackerrank.com/)  
 
 
 
