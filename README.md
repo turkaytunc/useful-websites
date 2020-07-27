@@ -23,6 +23,9 @@
 [Free PSD temlates](https://free-psd-templates.com/)  
 [Free PSD files](https://www.freepik.com/popular-psd)  
 [Picture placeholder](https://picsum.photos/)  
+[Free High Quality Images](https://www.pexels.com/) 
+[Free SVG icons](https://game-icons.net/)  
+ 
 
 
 
@@ -30,6 +33,8 @@
 
 [Free for commercial use](https://www.fontsquirrel.com/)  
 [Well designed fonts](https://www.dafont.com/)  
+[Font Awsome](https://fontawesome.com/)  
+
 
 ## Mockup
 
@@ -39,9 +44,23 @@
 
 [Color palette generator](https://colors.muz.li/)  
 [Color space color generator](https://mycolor.space/)  
+[Ready to use color palette](https://colorhunt.co/)  
+[Adobe color palette generator](https://color.adobe.com/tr/create/color-wheel)  
 
 
 
+## Site Templates
+
+[Bootstrapped Website Templates](https://themewagon.com/)  
+
+
+## Online Code Editor
+
+[Codepen](https://codepen.io/)  
+
+## Documentations
+
+[W3 Schools web](https://www.w3schools.com/)  
 
 
 
