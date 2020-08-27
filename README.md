@@ -4,7 +4,7 @@
 
 [Web Developer Roadmaps](https://roadmap.sh/roadmaps)  
 [Web Development in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)  
-[web-skills](https://andreasbm.github.io/web-skills/)
+[Web-skills](https://andreasbm.github.io/web-skills/)
 
 ## CSS
 
@@ -25,8 +25,8 @@
 [Free High Quality Images](https://www.pexels.com/)  
 [Free SVG icons](https://game-icons.net/)  
 [SVG icons](https://www.flaticon.com/)  
-[gitmoji](https://gitmoji.carloscuesta.me/)  
-[heroicons](https://heroicons.dev/)
+[Gitmoji](https://gitmoji.carloscuesta.me/)  
+[Heroicons](https://heroicons.dev/)
 
 ## Fonts
 
@@ -37,7 +37,7 @@
 ## Mockup
 
 [Smart mockups](https://smartmockups.com/)  
-[mock-data](https://www.mockaroo.com/)
+[Mock-data](https://www.mockaroo.com/)
 
 ## Color
 
@@ -64,15 +64,15 @@
 
 ## Online Tools
 
-[shapedivider](https://www.shapedivider.app/)  
-[bennettfeely](https://bennettfeely.com/clippy/)  
-[pagespeed](https://varvy.com/pagespeed/)  
-[urlencoder](https://www.urlencoder.org/)  
+[Shapedivider](https://www.shapedivider.app/)  
+[Bennettfeely](https://bennettfeely.com/clippy/)  
+[Pagespeed](https://varvy.com/pagespeed/)  
+[Urlencoder](https://www.urlencoder.org/)  
 [Pixelart drawing tool](https://www.pixilart.com/draw)  
-[gitattributes-generator](https://www.richie-bendall.ml/gitattributes-generator/)  
-[png-compress](https://tinypng.com/)  
-[jpg-compress](https://tinyjpg.com/)  
-[remove-exif-data](https://www.verexif.com/en/)
+[Gitattributes-generator](https://www.richie-bendall.ml/gitattributes-generator/)  
+[Png-compress](https://tinypng.com/)  
+[Jpg-compress](https://tinyjpg.com/)  
+[Remove-exif-data](https://www.verexif.com/en/)
 
 ## Challenges
 
@@ -84,11 +84,11 @@
 
 ## Learning
 
-[freefrontend](https://freefrontend.com/)  
-[animista](https://animista.net/)  
-[bitwisecmd](http://bitwisecmd.com/)  
-[opensource](https://opensource.com/)  
-[refactoring.guru](https://refactoring.guru/)  
-[fullstackradio](https://www.fullstackradio.com/)  
-[regex-cheatsheet](https://www.keycdn.com/support/regex-cheatsheet)  
-[regex-tutorials](https://www.regular-expressions.info/)
+[Freefrontend](https://freefrontend.com/)  
+[Animista](https://animista.net/)  
+[Bitwisecmd](http://bitwisecmd.com/)  
+[Opensource](https://opensource.com/)  
+[Refactoring.guru](https://refactoring.guru/)  
+[Fullstackradio](https://www.fullstackradio.com/)  
+[Regex-cheatsheet](https://www.keycdn.com/support/regex-cheatsheet)  
+[Regex-tutorials](https://www.regular-expressions.info/)
