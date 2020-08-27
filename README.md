@@ -8,7 +8,8 @@
 ## CSS
 
 [CSS Grid Cheatsheet](http://grid.malven.co/)  
-[CSS grid-flexbox and more](https://css-tricks.com/)
+[CSS grid-flexbox and more](https://css-tricks.com/)  
+[CSS tools](https://www.cssmatic.com/)
 
 ## Sound
 
@@ -68,3 +69,12 @@
 [Coding Challenges Codewars](https://www.codewars.com/)  
 [Coding Challenges Leet Code](https://leetcode.com/)  
 [Coding challenges hackerrank](https://www.hackerrank.com/)
+
+## Learning
+
+[freefrontend.com](https://freefrontend.com/)  
+[gitmoji.carloscuesta.me](https://gitmoji.carloscuesta.me/)  
+[heroicons.dev](https://heroicons.dev/)  
+[animista.net](https://animista.net/)  
+[bitwisecmd.com](http://bitwisecmd.com/)  
+[opensource.com](https://opensource.com/)
