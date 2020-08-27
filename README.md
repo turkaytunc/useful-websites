@@ -3,7 +3,8 @@
 ## Web Developer Roadmaps
 
 [Web Developer Roadmaps](https://roadmap.sh/roadmaps)  
-[Web Development in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
+[Web Development in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)  
+[web-skills](https://andreasbm.github.io/web-skills/)
 
 ## CSS
 
@@ -23,7 +24,9 @@
 [Picture placeholder](https://picsum.photos/)  
 [Free High Quality Images](https://www.pexels.com/)  
 [Free SVG icons](https://game-icons.net/)  
-[SVG icons](https://www.flaticon.com/)
+[SVG icons](https://www.flaticon.com/)  
+[gitmoji](https://gitmoji.carloscuesta.me/)  
+[heroicons](https://heroicons.dev/)
 
 ## Fonts
 
@@ -33,7 +36,8 @@
 
 ## Mockup
 
-[Smart mockups](https://smartmockups.com/)
+[Smart mockups](https://smartmockups.com/)  
+[mock-data](https://www.mockaroo.com/)
 
 ## Color
 
@@ -60,7 +64,15 @@
 
 ## Online Tools
 
-[Pixelart drawing tool](https://www.pixilart.com/draw)
+[shapedivider](https://www.shapedivider.app/)  
+[bennettfeely](https://bennettfeely.com/clippy/)  
+[pagespeed](https://varvy.com/pagespeed/)  
+[urlencoder](https://www.urlencoder.org/)  
+[Pixelart drawing tool](https://www.pixilart.com/draw)  
+[gitattributes-generator](https://www.richie-bendall.ml/gitattributes-generator/)  
+[png-compress](https://tinypng.com/)  
+[jpg-compress](https://tinyjpg.com/)  
+[remove-exif-data](https://www.verexif.com/en/)
 
 ## Challenges
 
@@ -73,22 +85,10 @@
 ## Learning
 
 [freefrontend](https://freefrontend.com/)  
-[gitmoji](https://gitmoji.carloscuesta.me/)  
-[heroicons](https://heroicons.dev/)  
 [animista](https://animista.net/)  
 [bitwisecmd](http://bitwisecmd.com/)  
 [opensource](https://opensource.com/)  
-[shapedivider](https://www.shapedivider.app/)  
-[bennettfeely](https://bennettfeely.com/clippy/)  
-[pagespeed](https://varvy.com/pagespeed/)  
-[urlencoder](https://www.urlencoder.org/)  
 [refactoring.guru](https://refactoring.guru/)  
-[web-skills](https://andreasbm.github.io/web-skills/)  
-[mock-data](https://www.mockaroo.com/)  
 [fullstackradio](https://www.fullstackradio.com/)  
-[gitattributes-generator](https://www.richie-bendall.ml/gitattributes-generator/)  
-[png-compress](https://tinypng.com/)  
-[jpg-compress](https://tinyjpg.com/)  
-[remove-exif-data](https://www.verexif.com/en/)  
 [regex-cheatsheet](https://www.keycdn.com/support/regex-cheatsheet)  
 [regex-tutorials](https://www.regular-expressions.info/)
