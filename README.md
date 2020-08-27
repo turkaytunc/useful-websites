@@ -21,7 +21,7 @@
 [Free PSD temlates](https://free-psd-templates.com/)  
 [Free PSD files](https://www.freepik.com/popular-psd)  
 [Picture placeholder](https://picsum.photos/)  
-[Free High Quality Images](https://www.pexels.com/)
+[Free High Quality Images](https://www.pexels.com/)  
 [Free SVG icons](https://game-icons.net/)  
 [SVG icons](https://www.flaticon.com/)
 
@@ -72,9 +72,18 @@
 
 ## Learning
 
-[freefrontend.com](https://freefrontend.com/)  
-[gitmoji.carloscuesta.me](https://gitmoji.carloscuesta.me/)  
-[heroicons.dev](https://heroicons.dev/)  
-[animista.net](https://animista.net/)  
-[bitwisecmd.com](http://bitwisecmd.com/)  
-[opensource.com](https://opensource.com/)
+[freefrontend](https://freefrontend.com/)  
+[gitmoji](https://gitmoji.carloscuesta.me/)  
+[heroicons](https://heroicons.dev/)  
+[animista](https://animista.net/)  
+[bitwisecmd](http://bitwisecmd.com/)  
+[opensource](https://opensource.com/)  
+[shapedivider](https://www.shapedivider.app/)  
+[bennettfeely](https://bennettfeely.com/clippy/)  
+[pagespeed](https://varvy.com/pagespeed/)  
+[urlencoder](https://www.urlencoder.org/)  
+[refactoring.guru](https://refactoring.guru/)  
+[]()  
+[]()  
+[]()  
+[]()
